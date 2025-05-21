@@ -1,14 +1,12 @@
-<!-- Animated Typing Header -->
+<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer;🌐+Full+Stack+Developer;🛠️+IT+Support+Specialist;🔥+Tech+Nerd+Always+Learning" alt="Typing SVG" />
 </p>
 
-<!-- Profile GIF -->
+<!-- Animated GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" />
 </p>
-
----
 
 <h2 align="center">✨ Hey there, I'm <span style="color:#F7DF1E;">Niranjan Kale</span> 👋</h2>
 <p align="center">
@@ -17,18 +15,18 @@
 
 ---
 
-### ⚡ Quick Snapshot
-- 🎯 Passionate about automation, infrastructure, and clean code.
-- 🧠 Problem-solver with solid grounding in cloud, security, and full stack development.
-- 🚀 Currently building a Novorésumé-style AI Resume Builder.
-- 🌏 Always exploring new stacks, scripting magic, and system tuning.
+## ⚡ Quick Snapshot
+
+- 🎯 Passionate about automation, infrastructure, and clean code
+- 🧠 Problem-solver with experience across cloud, DevOps, and full-stack
+- 🚀 Building a Novorésumé-style AI Resume Builder
+- 🌱 Always exploring new stacks, scripting magic, and tuning systems
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 🚀 DevOps & Cloud
-
+### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazonaws&logoColor=white&style=for-the-badge)
@@ -37,8 +35,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-#### 🌐 Full Stack Dev
-
+### 🌐 Full Stack Dev
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -47,8 +44,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=mysql&logoColor=white&style=for-the-badge)
 
-#### 💻 IT Support & Tooling
-
+### 💻 IT Support & Tooling
 ![Windows](https://img.shields.io/badge/-Windows-0078d4?logo=windows&logoColor=white&style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -57,19 +53,19 @@
 
 ---
 
-### 📜 Certifications & Achievements
+## 🏅 Certifications & Achievements
 
 - 🛡️ Google IT Support Professional
 - 🎓 Red Hat Certified Engineer (RHCE)
 - 🔒 NSE 7 Fortinet Network Security
 - 🖥️ Web Programming with Python & JavaScript
 - 📊 Power BI | 📁 MongoDB for .NET
-- 🏆 Silver Medal in District Boxing 🥈  
-- 👨‍💼 Former Student Council Member
+- 🥈 Silver Medalist in District Boxing
+- 🧑‍💼 Former Student Council Member
 
 ---
 
-### 🌍 Let's Connect
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjankale772577/" target="_blank">
@@ -82,6 +78,5 @@
 
 ---
 
-### 💬 Quote of the Day
+> 💬 *"Stay hungry, stay foolish."* — Steve Jobs
 
-<p align="center"><i>"Stay hungry, stay foolish." – Steve Jobs</i></p>
